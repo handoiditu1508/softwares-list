@@ -36,7 +36,10 @@ github
 tortoise git
 postman
 perfect uninstaller
+audacity
+audio-player
 windows media player skin
+android studio
 music
 diablo
 hero editor
