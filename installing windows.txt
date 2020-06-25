@@ -40,6 +40,7 @@ audacity
 audio-player
 windows media player skin
 android studio
+nox
 music
 diablo
 hero editor
