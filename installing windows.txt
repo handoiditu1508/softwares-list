@@ -42,6 +42,7 @@ windows media player skin
 android studio
 nox
 utorrent
+lightshot
 music
 diablo
 hero editor
