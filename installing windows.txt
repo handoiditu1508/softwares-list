@@ -41,6 +41,7 @@ audio-player
 windows media player skin
 android studio
 nox
+utorrent
 music
 diablo
 hero editor
