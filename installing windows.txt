@@ -35,6 +35,8 @@ bandicam 4. 1. 7. 1424
 github
 tortoise git
 postman
+ultrasurf
+node.js
 perfect uninstaller
 audacity
 audio-player
