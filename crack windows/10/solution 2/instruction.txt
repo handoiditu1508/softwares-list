@@ -1,0 +1,5 @@
+﻿1. chạy file cmd bằng quyền admin
+2. nhấn số 1
+3. nhấn T
+4. quay lại menu chính
+5. nhấn số 2 đề kiểm tra trạng thái windows

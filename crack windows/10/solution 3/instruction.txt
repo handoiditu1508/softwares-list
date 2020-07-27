@@ -1,0 +1,1 @@
+﻿chạy file cmd bằng quyền admin
