@@ -36,6 +36,7 @@ tortoise git
 postman
 ultrasurf
 node.js
+angular
 perfect uninstaller
 audacity
 audio-player
