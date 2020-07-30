@@ -20,7 +20,6 @@ sql server express
 visual studio
 visual code
 python
-C-free
 eclipse
 notepad++
 powerdesigner 16.1
