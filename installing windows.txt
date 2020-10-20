@@ -46,6 +46,7 @@ android studio
 cocos2d
 cocos studio
 cocoscreator
+webstorm
 ImBatch
 TexturePacker
 telegram
