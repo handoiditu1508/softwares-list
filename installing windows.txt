@@ -19,7 +19,7 @@ ssms
 sql server express
 visual studio
 visual code
-python
+python 2.7
 eclipse
 notepad++
 powerdesigner 16.1
@@ -33,6 +33,7 @@ testlink
 bandicam 4. 1. 7. 1424
 github
 tortoise git
+tortoise svn
 postman
 ultrasurf
 node.js
@@ -42,6 +43,12 @@ audacity
 audio-player
 windows media player skin
 android studio
+cocos2d
+cocos studio
+cocoscreator
+ImBatch
+TexturePacker
+telegram
 nox
 utorrent
 lightshot
