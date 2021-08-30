@@ -51,6 +51,7 @@ ImBatch
 TexturePacker
 telegram
 nox
+bluestack (change media folder & disable desktop shortcut)
 utorrent
 lightshot
 music
