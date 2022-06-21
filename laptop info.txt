@@ -1,0 +1,16 @@
+Laptop Asus TUF Gaming FX506LI i7 10870H/8GB/512GB/144Hz/4GB GTX1650Ti/Win10 (HN096T)
+https://www.thegioididong.com/laptop/asus-tuf-gaming-fx506li-i7-hn096t
+
+Bộ xử lý
+Công nghệ CPU: Intel Core i7 Comet Lake - 10870H
+Tốc độ CPU: 2.20 GHz
+Tốc độ tối đa: Turbo Boost 5.0 GHz
+
+Bộ nhớ RAM, Ổ cứng
+RAM: 8 GB
+Loại RAM: DDR4 (2 khe)
+Tốc độ Bus RAM: 2933 MHz
+Hỗ trợ RAM tối đa: 32 GB
+Ổ cứng: 512 GB SSD NVMe PCIe
+	Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng
+	Hỗ trợ khe cắm HDD SATA
