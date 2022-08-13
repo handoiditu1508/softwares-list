@@ -7,7 +7,12 @@ ethernet controller
 firefox
 chorme
 coccoc
+edge
+ - Chrome Audio Capture
+ - UltraSurf
 avira
+ - exclude C:windows folder
+ - change update to 12 hours (gear icon -> general -> updates)
 winrar
 idm
 unikey
@@ -19,6 +24,9 @@ ssms
 sql server express
 visual studio
 visual code
+ - sql server(mssql)
+ - sort-imports
+ - mongodb for vs code
 python 2.7
 eclipse
 notepad++
