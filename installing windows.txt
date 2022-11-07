@@ -10,6 +10,7 @@ coccoc
 edge
  - Chrome Audio Capture
  - UltraSurf
+ - backup bookmarked pages
 avira
  - exclude C:windows folder
  - change update to 12 hours (gear icon -> general -> updates)
@@ -27,6 +28,7 @@ visual code
  - sql server(mssql)
  - sort-imports
  - mongodb for vs code
+ - ES7+ React/Redux/React-Native snippets
 python 2.7
 eclipse
 notepad++
@@ -40,6 +42,13 @@ mantis
 testlink
 bandicam 4. 1. 7. 1424
 github
+ - audio-player
+ - be-boilerplate
+ - fe-boilerplate
+ - css-study
+ - images
+ - musics
+ - softwares-list
 tortoise git
 tortoise svn
 postman
