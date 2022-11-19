@@ -26,7 +26,6 @@ sql server express
 visual studio
 visual code
  - sql server(mssql)
- - sort-imports
  - mongodb for vs code
  - ES7+ React/Redux/React-Native snippets
 python 2.7
