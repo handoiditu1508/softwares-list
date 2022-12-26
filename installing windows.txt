@@ -28,6 +28,11 @@ visual code
  - sql server(mssql)
  - mongodb for vs code
  - ES7+ React/Redux/React-Native snippets
+ - Sass
+ - Material Icon Theme
+ - JS & CSS Minifier (Minify)
+ - ESLint
+ - Git History
 python 2.7
 eclipse
 notepad++
