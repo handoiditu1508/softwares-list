@@ -14,3 +14,32 @@ Hỗ trợ RAM tối đa: 32 GB
 Ổ cứng: 512 GB SSD NVMe PCIe
 	Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng
 	Hỗ trợ khe cắm HDD SATA
+
+Màn hình
+Màn hình: 15.6 inch
+Độ phân giải: Full HD (1920 x 1080), 144Hz
+Công nghệ màn hình: Tấm nền IPSChống chói Anti Glare
+
+Đồ họa và Âm thanh
+Card màn hình: Card rời - NVIDIA GeForce GTX 1650Ti 4 GB
+Công nghệ âm thanh: DTS X:Ultra Audio
+
+Cổng kết nối & tính năng mở rộng
+Cổng giao tiếp: USB Type-C
+		2 x USB 3.2
+		HDMI
+		LAN (RJ45)
+		USB 2.0
+Kết nối không dây: Bluetooth 5.0Wi-Fi 6 (802.11ax)
+Webcam: HD webcam
+Đèn bàn phím: Có
+Tính năng khác: Đèn bàn phím chuyển màu RGB
+
+Kích thước & khối lượng
+Kích thước, khối lượng: Dài 359 mm - Rộng 256 mm - Dày 24.9 mm - Nặng 2.3 kg
+Chất liệu: Vỏ nhựa - nắp lưng bằng kim loại
+
+Thông tin khác
+Thông tin Pin: 3-cell Li-ion, 48 Wh
+Hệ điều hành: Windows 10 Home SL
+Thời điểm ra mắt: 2020
