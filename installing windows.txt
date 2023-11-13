@@ -3,6 +3,7 @@ window ISO downloader
 win 7 pro
 
 -after
+settings > storage > more storage settings > change where new content is saved
 ethernet controller
 firefox
 chorme
