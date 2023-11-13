@@ -78,3 +78,5 @@ lightshot
 music
 diablo
 hero editor
+docker
+ - change disk image location in resources setting
