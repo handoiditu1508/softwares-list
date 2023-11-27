@@ -40,8 +40,8 @@ notepad++
 powerdesigner 16.1
 hjsplit
 foxit reader
-vmware workstation 9
-dreamweaver cs6
+virtualbox
+ - change Default Machine Folder in Preferences => General
 wamp (change mysql & apache ports in xampp)
 mantis
 testlink
