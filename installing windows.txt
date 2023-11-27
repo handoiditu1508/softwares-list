@@ -14,9 +14,10 @@ edge
  - backup bookmarked pages
 avira
  - exclude C:windows folder
- - change update to 12 hours (gear icon -> general -> updates)
+ - change update to 12 hours (gear icon > general > updates)
 winrar
 idm
+ - Options > Save to > Temporary directory
 unikey
 activate AIO Tools | win 7 loader | Chew WGA
 ultraiso
@@ -26,14 +27,6 @@ ssms
 sql server express
 visual studio
 visual code
- - sql server(mssql)
- - mongodb for vs code
- - ES7+ React/Redux/React-Native snippets
- - Sass
- - Material Icon Theme
- - JS & CSS Minifier (Minify)
- - ESLint
- - Git History
 python 2.7
 eclipse
 notepad++
@@ -41,7 +34,7 @@ powerdesigner 16.1
 hjsplit
 foxit reader
 virtualbox
- - change Default Machine Folder in Preferences => General
+ - Preferences > General > Default Machine Folder
 wamp (change mysql & apache ports in xampp)
 mantis
 testlink
