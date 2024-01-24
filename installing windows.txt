@@ -52,7 +52,7 @@ tortoise git
 tortoise svn
 postman
 ultrasurf
-node.js
+node.js/nvm
 angular
 perfect uninstaller
 audacity
